@@ -70,7 +70,6 @@ itsdangerous==2.2.0
 Jinja2==3.1.4
 jiter==0.8.2
 jmespath==1.0.1
-keras==3.4.1
 kiwisolver==1.4.5
 kombu==5.3.7
 libclang==18.1.1
