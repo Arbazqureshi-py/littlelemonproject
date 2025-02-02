@@ -139,7 +139,8 @@ sympy==1.13.3
 tbb==2021.13.1
 tensorflow == 2.15.0
 tomli==2.0.1
-torch==2.3.1+cpu --index-url https://download.pytorch.org/whl/cpu
+-f https://download.pytorch.org/whl/torch_stable.html
+torch==2.0.1+cpu
 tqdm==4.64.1
 typing_extensions==4.12.2
 tzdata==2024.1
